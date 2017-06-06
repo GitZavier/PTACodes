@@ -16,6 +16,6 @@
 |L1-022|奇偶分家|[L1-022.java](GPLT/L1-022.java)|Null|Null|
 |L1-024|后天|[L1-024.java](GPLT/L1-024.java)|Null|Null|
 |L1-029|是不是太胖了|[L1-029.java](GPLT/L1-029.java)|Null|Null|
-|L1-036|A乘以B|Null|Null|[L1-036.cpp](L1-036.cpp)|
+|L1-036|A乘以B|Null|Null|[L1-036.cpp](GPLT/L1-036.cpp)|
 |L1-038|新世界|Null|Null|[L1-038.cpp](GPLT/L1-038.cpp)|
 |L1-045|宇宙无敌大招呼|Null|Null|[L1-045.cpp](GPLT/L1-045.cpp)|
