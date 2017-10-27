@@ -1,5 +1,5 @@
 #include <iostream>
-// L1-012. 计算指数
+// L1-010. 比较大小
 using namespace std;
 int main(int argc, char *argv[]) {
 	int arr[3], min;
