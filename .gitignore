@@ -1,5 +1,5 @@
 .DS_Store/
-.class
-Main.java
+GPLT/*.class
+*/Main.java
 .vscode/
 
